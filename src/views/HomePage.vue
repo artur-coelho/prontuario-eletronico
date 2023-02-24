@@ -2,16 +2,16 @@
   <v-container>
     <v-row>
       <v-col>
-        <v-card class="pa-8">
-          <v-card-title>Consultas atrasadas x Consultas pontuais</v-card-title>
+        <v-card class="pa-4 pa-md-8">
+          <v-card-title class="text-center">Consultas atrasadas x Consultas pontuais</v-card-title>
           <v-card-item>
             <Doughnut :data="onTimeData" :options="onTimeOptions" />
           </v-card-item>
         </v-card>
       </v-col>
       <v-col>
-        <v-card class="pa-8">
-          <v-card-title>Consultas do dia</v-card-title>
+        <v-card class="pa-4 pa-md-8">
+          <v-card-title class="text-center">Consultas do dia</v-card-title>
           <v-card-item>
             <Doughnut :data="onDayData" :options="onDayOptions" />
           </v-card-item>
