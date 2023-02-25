@@ -5,7 +5,7 @@
       <v-spacer class="mb-2"></v-spacer>
       <v-row>
         <v-col order-md="2" md="4" class="d-flex align-center justify-md-end my-4"><v-btn color="primary"
-            prepend-icon="mdi-plus" to="/new-patient">Adicionar
+            prepend-icon="mdi-plus" to="/patients/new-patient">Adicionar
             Paciente</v-btn></v-col>
         <v-col order-md="1" md="8">
           <v-text-field v-model="search" append-icon="mdi-magnify" label="Search" single-line hide-details></v-text-field>
@@ -29,7 +29,7 @@ const search = ''
 const headers = [
   {
     align: 'start',
-    key: 'name',
+    key: 'full_name',
     title: 'Nome',
   },
   { key: 'last_appointment', title: 'Última consulta' },

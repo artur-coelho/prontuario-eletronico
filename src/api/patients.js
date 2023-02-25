@@ -1,6 +1,6 @@
 export default [
   {
-    name: "Claudia Abreu Brito Moura",
+    full_name: "Claudia Abreu Brito Moura",
     last_appointment: "09/08/2022",
     born_at: "09/08/1989",
     cpf: "840.471.532-34",
@@ -8,7 +8,7 @@ export default [
     actions: 1,
   },
   {
-    name: "Ricardo Almeida Costa",
+    full_name: "Ricardo Almeida Costa",
     last_appointment: "11/11/2022",
     born_at: "05/07/1972",
     cpf: "683.815.791-56",
@@ -16,7 +16,7 @@ export default [
     actions: 1,
   },
   {
-    name: "Wagner Augusto Bahia",
+    full_name: "Wagner Augusto Bahia",
     last_appointment: "05/10/2022",
     born_at: "19/08/1965",
     cpf: "145.688.456-13",
@@ -24,7 +24,7 @@ export default [
     actions: 7,
   },
   {
-    name: "Marinalva Barbosa Oliveira",
+    full_name: "Marinalva Barbosa Oliveira",
     last_appointment: "20/11/2022",
     born_at: "09/02/1958",
     cpf: "231.804.233-14",
@@ -32,7 +32,7 @@ export default [
     actions: 8,
   },
   {
-    name: "Juarez Molina Machado",
+    full_name: "Juarez Molina Machado",
     last_appointment: "08/10/2022",
     born_at: "20/12/1968",
     cpf: "231.804.233-14",
@@ -40,7 +40,7 @@ export default [
     actions: 16,
   },
   {
-    name: "André Lima de Oliveira",
+    full_name: "André Lima de Oliveira",
     last_appointment: "02/10/2022",
     born_at: "18/07/1956",
     cpf: "150.269.847-12",
@@ -48,7 +48,7 @@ export default [
     actions: 0,
   },
   {
-    name: "Claudia Abreu Brito Moura",
+    full_name: "Claudia Abreu Brito Moura",
     last_appointment: "09/08/2022",
     born_at: "09/08/1989",
     cpf: "840.471.532-34",
@@ -56,7 +56,7 @@ export default [
     actions: 1,
   },
   {
-    name: "Ricardo Almeida Costa",
+    full_name: "Ricardo Almeida Costa",
     last_appointment: "11/11/2022",
     born_at: "05/07/1972",
     cpf: "683.815.791-56",
@@ -64,7 +64,7 @@ export default [
     actions: 1,
   },
   {
-    name: "Wagner Augusto Bahia",
+    full_name: "Wagner Augusto Bahia",
     last_appointment: "05/10/2022",
     born_at: "19/08/1965",
     cpf: "145.688.456-13",
@@ -72,7 +72,7 @@ export default [
     actions: 7,
   },
   {
-    name: "Marinalva Barbosa Oliveira",
+    full_name: "Marinalva Barbosa Oliveira",
     last_appointment: "20/11/2022",
     born_at: "09/02/1958",
     cpf: "231.804.233-14",
@@ -80,7 +80,7 @@ export default [
     actions: 8,
   },
   {
-    name: "Juarez Molina Machado",
+    full_name: "Juarez Molina Machado",
     last_appointment: "08/10/2022",
     born_at: "20/12/1968",
     cpf: "231.804.233-14",
@@ -88,7 +88,7 @@ export default [
     actions: 16,
   },
   {
-    name: "André Lima de Oliveira",
+    full_name: "André Lima de Oliveira",
     last_appointment: "02/10/2022",
     born_at: "18/07/1956",
     cpf: "150.269.847-12",
